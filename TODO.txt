@@ -1,0 +1,5 @@
+TODO
+-- Agrupar ingredientes por efecto. Posible uso del method transpose
+-- Búsqueda
+-- Importar ymls a lista actual. Uso de [] | []
+-- Descripción de ingredientes
