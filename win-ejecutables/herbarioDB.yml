@@ -1,0 +1,81 @@
+---
+- - Corazón daedra
+  - 25
+  - 2
+  - 0
+  - 0
+  - 2.0
+  - Restaurar pg
+  - Escudo de electricidad
+  - Dañar pm
+  - Silencio
+- - Ectoplasma
+  - 20
+  - 0
+  - 0
+  - 0
+  - 0.2
+  - Daño de Electricidad
+  - Disipar
+  - Fortificar PM
+  - Dañar PG
+- - Flor de Alkanet
+  - 1
+  - 0
+  - 0
+  - 0
+  - 0.1
+  - Luz
+  - Recuperar CI
+  - Resistencia a venenos
+  - Dañar PF
+- - Néctar
+  - 1
+  - 0
+  - 0
+  - 0
+  - 0.1
+  - Resistencia al veneno
+  - Resistencia a la parálisis
+  - Restaurar suerte
+  - Resistencia a la enfermedad
+- - Ojo Daedroth
+  - 65
+  - 0
+  - 0
+  - 0
+  - 0.5
+  - Visión Nocturna
+  - Escudo de Escarcha
+  - Aumentar CB
+  - Luz
+- - Sales de fuego
+  - 30
+  - 0
+  - 0
+  - 0
+  - 0.1
+  - Daño de fuego
+  - Resistencia al frío
+  - Restaurar PM
+  - Escudo de fuego
+- - Seda Daedra
+  - 75
+  - 0
+  - 0
+  - 0
+  - 0.5
+  - Aumentar CB
+  - Visión Nocturna
+  - Camaleón
+  - Dañar Salud
+- - Sombrero champiñón volador
+  - 1
+  - 0
+  - 0
+  - 0
+  - 0.1
+  - Restaurar DS
+  - Aumentar CB
+  - Restaurar PG
+  - Daño eléctrico
